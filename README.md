@@ -11,6 +11,7 @@
 Building intelligent software — from machine learning pipelines to production-deployed web applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Himanish--18-181717?style=flat&logo=github)](https://github.com/Himanish-18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanish%20Giri-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/himanish-giri-b69908316/)
 
 ---
 
@@ -201,6 +202,7 @@ A native Windows GUI dashboard for OS-level process monitoring. Features live CP
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Himanish--18-181717?style=for-the-badge&logo=github)](https://github.com/Himanish-18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanish%20Giri-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanish-giri-b69908316/)
 
 </div>
 
