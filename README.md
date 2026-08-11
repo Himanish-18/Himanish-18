@@ -164,9 +164,9 @@ A native Windows GUI dashboard for OS-level process monitoring. Features live CP
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Himanish-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Himanish-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanish-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Himanish-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 
 <br/><br/>
 
