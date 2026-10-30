@@ -19,11 +19,11 @@ Building intelligent software — from machine learning pipelines to production-
 
 ## 🧠 About Me
 
-I'm a Computer Science student focused on building real-world systems that span AI/ML, full-stack development, and cloud infrastructure. My work ranges from production-deployed web platforms with CI/CD pipelines to RAG-based AI assistants and ML research pipelines.
+I'm a Computer Science student focused on building real-world systems that span AI/ML, full-stack development, and cloud infrastructure. My work ranges from production-deployed web platforms with CI/CD pipelines to RAG-based AI assistants, unsupervised representation learning, and predictive maintenance ML pipelines.
 
 I care about writing software that actually works in production — not just in notebooks.
 
-- 🔬 Working on **machine learning pipelines** and **RAG systems** grounded in real data
+- 🔬 Working on **machine learning research** — predictive maintenance, representation learning, and RAG systems
 - 🏗️ Building **full-stack applications** with modern tooling and cloud deployment
 - 🐳 Containerizing and deploying with **Docker, Nginx, and AWS**
 - 📚 Continuously learning — deepening ML knowledge and improving engineering practices
@@ -32,9 +32,9 @@ I care about writing software that actually works in production — not just in 
 
 ## 🚀 Currently Building
 
-- **[Chronicles](https://github.com/Himanish-18/chronicles)** — A production-grade blogging platform with React + Express + Prisma, deployed on AWS EC2 with Docker Compose, Nginx, and GitHub Actions CI/CD
-- **[ApexHealth](https://github.com/Himanish-18/apexhealth)** — A Healthcare RAG assistant using hybrid retrieval (MedCPT + BM25 + RRF), cross-encoder re-ranking, and evidence-grounded medical Q&A
-- **[Multilingual Tutor](https://github.com/Himanish-18/multilingual-tutor)** — An offline RAG pipeline for cultural & linguistic education using ChromaDB, LangChain, and Google Gemini
+- **[AeroRUL](https://github.com/Himanish-18/AeroRUL)** — Predicting Remaining Useful Life of turbofan engines from NASA C-MAPSS sensor data using structured ML pipelines
+- **[MotionLatent](https://github.com/Himanish-18/MotionLatent)** — Unsupervised representation learning for motion-sensor data (PCA, ICA, Autoencoder) with LOSO evaluation on PAMAP2
+- **[SwasthCluster](https://github.com/Himanish-18/SwasthCluster)** — Health data clustering and analysis pipeline using Python and SciPy
 
 ---
 
@@ -52,9 +52,7 @@ I care about writing software that actually works in production — not just in 
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,fastapi" />
 
 #### AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-`LangChain` · `ChromaDB` · `HuggingFace` · `Gemini API` · `RAG` · `Scikit-learn` · `Pandas` · `NumPy`
+`Scikit-learn` · `LangChain` · `ChromaDB` · `HuggingFace` · `Gemini API` · `RAG` · `Pandas` · `NumPy` · `SciPy` · `Matplotlib` · `Seaborn`
 
 #### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,nginx,aws,github,githubactions,linux,cmake" />
@@ -103,6 +101,28 @@ A web-based application focused on secure user authentication flows and access c
 <tr>
 <td width="50%">
 
+#### [AeroRUL](https://github.com/Himanish-18/AeroRUL)
+**Predictive maintenance for turbofan engines**
+
+Estimates Remaining Useful Life (RUL) of aircraft engines from multivariate sensor degradation patterns using the NASA C-MAPSS dataset. Structured multi-phase pipeline: dataset audit → EDA → feature engineering → model training with comprehensive reporting.
+
+`Python` `Pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn`
+
+</td>
+<td width="50%">
+
+#### [MotionLatent](https://github.com/Himanish-18/MotionLatent)
+**Unsupervised representation learning for motion-sensor data**
+
+Determines optimal compression of motion-sensor data into compact latent representations while preserving activity structure. Implements PCA, FastICA, and MLP Autoencoder models with leakage-safe Leave-One-Subject-Out evaluation on the PAMAP2 dataset.
+
+`Python` `Scikit-learn` `NumPy` `SciPy` `Pandas`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 #### [FraudSense](https://github.com/Himanish-18/fraudsense)
 **End-to-end credit card fraud detection ML pipeline**
 
@@ -134,13 +154,21 @@ An offline RAG conversational pipeline for explaining idioms, grammar, and cultu
 
 </td>
 <td width="50%">
+
+#### [SwasthCluster](https://github.com/Himanish-18/SwasthCluster)
+**Health data clustering and analysis**
+
+A Python-based clustering pipeline for health data analysis, featuring statistical methods and comprehensive visualizations for pattern discovery in healthcare datasets.
+
+`Python` `Pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn`
+
 </td>
 </tr>
 </table>
 
 ---
 
-### ⚙️ Systems Programming
+### ⚙️ Systems & Tools
 
 <table>
 <tr>
@@ -155,6 +183,14 @@ A native Windows GUI dashboard for OS-level process monitoring. Features live CP
 
 </td>
 <td width="50%">
+
+#### [Price Alert Tool](https://github.com/Himanish-18/price-alert-tool)
+**Zero-dependency CLI for price threshold & SMA crossover alerts**
+
+A lightweight Python CLI tool for evaluating historical price data against user-defined alert rules. Supports threshold crossing detection and simple moving average crossover alerts with exact integer arithmetic — no external dependencies.
+
+`Python` `Standard Library Only`
+
 </td>
 </tr>
 </table>
@@ -189,8 +225,8 @@ A native Windows GUI dashboard for OS-level process monitoring. Features live CP
 
 ## 🎯 Current Focus & Goals
 
-- 📖 Deepening knowledge of **transformer architectures** and **advanced retrieval systems**
-- 🏥 Building production-quality **AI-powered applications** with real-world impact
+- 🛩️ Deepening knowledge of **predictive maintenance ML** and **unsupervised representation learning**
+- 🏥 Building production-quality **AI-powered applications** — healthcare RAG, sensor analytics
 - ☁️ Expanding cloud infrastructure skills — **containerization, orchestration, and CI/CD**
 - 🔧 Improving software engineering fundamentals — **system design, testing, and observability**
 - 🚀 Contributing to **open-source projects** and participating in **hackathons**
